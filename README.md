@@ -1,0 +1,2 @@
+# Javscript-practice
+practicing javascript
